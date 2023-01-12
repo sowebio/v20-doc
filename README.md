@@ -11,7 +11,7 @@ v20 is also a modular library with components designed to work together. Naming 
 At least five other packages are planned, related to databases and web APIs, without being limited to these aspects only.
 
 ## Documentation build
-This documentation has been created with Libre Office  and ressoures available in [https://github.com/sowebio/ada-logo](https://github.com/sowebio/ada-logo) and [https://github.com/sowebio/doc-build](https://github.com/sowebio/doc-build).
+This documentation has been created with Libre Office and ressources available in [https://github.com/sowebio/ada-logo](https://github.com/sowebio/ada-logo) and [https://github.com/sowebio/doc-build](https://github.com/sowebio/doc-build).
 
 ## Copyright
 
